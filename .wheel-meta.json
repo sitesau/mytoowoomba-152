@@ -1,0 +1,22 @@
+{
+  "wheel_id": 407,
+  "structure": "umbrella",
+  "slug": "mytoowoomba-152",
+  "project": "plumbers-toowoomba-budget-tips-2b9e2f31359368ce0c7f7bb9a5908",
+  "parent_t1_ref": "mytoowoomba-011",
+  "node_role": "buffer",
+  "money_target": "mytoowoomba.com.au",
+  "primary_kw": "plumbers toowoomba budget tips",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/plumbers-toowoomba-budget-tips-2b9e2f31359368ce0c7f7bb9a5908/",
+  "tier": "T2",
+  "writeback_nonce": "031df3ee140d9843",
+  "links": [
+    {
+      "target_url": "https://plumbers-toowoomba-a0772a.gitlab.io/",
+      "anchor": "this plumbers toowoomba guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
